@@ -1,6 +1,6 @@
 # PyTorch in Amazon SageMaker
 
-This workshop demonstrates various aspects of PyTorch usage in Amazon SageMaker.  We'll examine how PyTorch can be applied in Amazon SageMaker to a movie recommendation case, natural language processing use case, a structured data use case, and a computer vision use case.  
+This workshop demonstrates various aspects of PyTorch usage in Amazon SageMaker.  We'll examine how PyTorch can be applied in Amazon SageMaker to a recommendation use case, natural language processing use case, a structured data use case, and a computer vision use case.  
 
 Here are some of the key features of Amazon SageMaker relevant to PyTorch demonstrated in this workshop:
 
@@ -26,6 +26,8 @@ This workshop is divided into multiple modules. After completing **Preliminaries
 - Preliminaries
 
 - Creating a Notebook Instance
+
+- Recommendation Use Case: Movie Recommendation
 
 - Natural Language Processing Use Case:  Sentiment Analysis 
 
@@ -64,6 +66,13 @@ Please run each code cell in order, and **only once**, to avoid repeated operati
 SageMaker provides hosted Jupyter notebooks that require no setup, so you can begin processing your training data sets immediately. With a few clicks in the SageMaker console, you can create a fully managed notebook instance, pre-loaded with useful libraries for machine learning. You need only add your data.
 
 To create a SageMaker notebook instance for this workshop, follow the instructions at [**Creating a Notebook Instance**](../NotebookCreation), then return here to continue with the next module of the workshop.
+
+
+## Recommendation Use Case:  Movie Recommendation  
+
+In this module, we'll use Script Mode with PyTorch by providing our own Python training script to be used with Amazon SageMaker's prebuilt PyTorch container.  Please go to the following link for this module:  [**Sentiment Analysis**](../modules/Movie_Recommendation.md).  Be sure to use the **downloaded** version of the applicable Jupyter notebook from this workshop repository.  
+
+When you're finished, return here to move on to the next module.  
 
 
 ## Natural Language Processing Use Case:  Sentiment Analysis  
