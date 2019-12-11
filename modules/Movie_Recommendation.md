@@ -1,4 +1,4 @@
-## Bosting Housing:  Predicting House Prices 
+## Movie Recommendation:  Recommend Movies
 
 In this module, we'll train and test a regression model to predict house prices using Amazon SageMaker's prebuilt TensorFlow container. We'll use Script Mode, which allows you to simply bring your own Python training script similar to one you would use outside Amazon SageMaker.  In Script Mode, you can use the [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) to abstract away many of the low level details of setting up training jobs and endpoints.   
 
