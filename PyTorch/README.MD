@@ -70,7 +70,7 @@ To create a SageMaker notebook instance for this workshop, follow the instructio
 
 ## Recommendation Use Case:  Movie Recommendation  
 
-In this module, we'll use Script Mode with PyTorch by providing our own Python training script to be used with Amazon SageMaker's prebuilt PyTorch container.  Please go to the following link for this module:  [**Sentiment Analysis**](../modules/Movie_Recommendation.md).  Be sure to use the **downloaded** version of the applicable Jupyter notebook from this workshop repository.  
+In this module, we'll use Script Mode with PyTorch by providing our own Python training script to be used with Amazon SageMaker's prebuilt PyTorch container.  Please go to the following link for this module:  [**Movie Recommendation**](../modules/Movie_Recommendation.md).  Be sure to use the **downloaded** version of the applicable Jupyter notebook from this workshop repository.  
 
 When you're finished, return here to move on to the next module.  
 
