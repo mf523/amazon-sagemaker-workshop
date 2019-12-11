@@ -1,6 +1,6 @@
 # PyTorch in Amazon SageMaker
 
-This workshop demonstrates various aspects of PyTorch usage in Amazon SageMaker.  We'll examine how PyTorch can be applied in Amazon SageMaker to a natural language processing use case, a structured data use case, and a computer vision use case.  
+This workshop demonstrates various aspects of PyTorch usage in Amazon SageMaker.  We'll examine how PyTorch can be applied in Amazon SageMaker to a movie recommendation case, natural language processing use case, a structured data use case, and a computer vision use case.  
 
 Here are some of the key features of Amazon SageMaker relevant to PyTorch demonstrated in this workshop:
 
